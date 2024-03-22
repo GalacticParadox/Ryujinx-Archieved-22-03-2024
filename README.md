@@ -161,7 +161,7 @@ All funds received through Patreon are considered a donation to support the proj
 
 ## License
 
-This software is licensed under the terms of the [MIT license](LICENSE.txt).
+This software is licensed under the terms of the [BSD 2 Clause license]
 This project makes use of code authored by the libvpx project, licensed under BSD and the ffmpeg project, licensed under LGPLv3.
 See [LICENSE.txt](LICENSE.txt) and [THIRDPARTY.md](distribution/legal/THIRDPARTY.md) for more details.
 
