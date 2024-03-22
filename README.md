@@ -1,3 +1,6 @@
+
+**⚠️⚠️Disclaimer⚠️⚠️**-Since nintendo is taking down every switch emulators on internet, that why this fork is created and also I will not be developing this. It's just an archieve. 
+
 <h1 align="center">
   <br>
   <a href="https://ryujinx.org/"><img src="https://raw.githubusercontent.com/Ryujinx/Ryujinx/master/distribution/misc/Logo.svg" alt="Ryujinx" width="150"></a>
